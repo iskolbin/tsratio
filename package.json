@@ -14,6 +14,7 @@
     "assert": "^1.4.1",
     "mocha": "^3.2.0",
     "mocha-typescript": "^1.0.23",
+    "nyc": "^10.2.0",
     "typescript": "^2.2.2"
   }
 }

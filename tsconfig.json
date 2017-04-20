@@ -2,6 +2,7 @@
 	"compilerOptions": {
 		"outDir": "./lib",
 		"module": "umd",
+		"declaration": true,
 		"noImplicitAny": true,
 		"noImplicitThis": true,
 		"noUnusedLocals": true,
