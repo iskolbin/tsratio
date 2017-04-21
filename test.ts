@@ -1,4 +1,3 @@
-import "blanket"
 import { Ratio } from './src/Ratio'
 import { suite, test, slow, timeout } from "mocha-typescript"
 import { assert, deepEqual, throws } from "assert"
