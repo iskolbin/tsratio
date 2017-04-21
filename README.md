@@ -153,5 +153,4 @@ or overflow accured during process the errors are thrown.
 Error                             | Description
 ----------------------------------|-----------------------------------------
 `Ratio.ERROR_BAD_PARSE_ARGUMENTS` | Converting input to number returned `NaN`
-`Ratio.ERROR_PARSE_OVERFLOW`      | During parsing we hit overflow limit, so
-                                  | numbers cannot be accurately represented
+`Ratio.ERROR_PARSE_OVERFLOW`      | During parsing we hit overflow limit, so numbers cannot be accurately represented
