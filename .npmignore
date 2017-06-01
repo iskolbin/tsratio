@@ -1,3 +1,7 @@
-src
+src*
 node_modules
 test*
+coverage*
+yarn.lock
+tsconfig.json
+.*
